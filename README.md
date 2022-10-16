@@ -11,7 +11,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/memo-lee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="memo-lee" height="30" width="40" /></a>
-<a href="https://twitter.com/memolee_wewo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="memolee_wewo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mehmetsonmez10x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetsonmez10x" height="30" width="40" /></a>
 <a href="https://instagram.com/mehmet.sonmezzx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehmet.sonmezzx" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/memolee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="memolee" height="30" width="40" /></a>
