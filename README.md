@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Website with Nodejs](https://github.com/Memo-Lee/eth.table.shop.app)
 
-- 🌱 I’m currently learning **ReactJS and React Native**
+- 🌱 I’m currently learning **ReactJS and NodeJS**
 
 - 📫 How to reach me **mehmetsonmezbusiness@gmail.com**
 
