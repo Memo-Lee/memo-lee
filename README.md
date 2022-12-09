@@ -8,8 +8,8 @@
 
 - 📫 How to reach me **mehmetsonmezbusiness@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="right">Connect with me:</h3>
+<p align="right">
 <a href="https://codepen.io/memo-lee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="memo-lee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mehmetsonmez10x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetsonmez10x" height="30" width="40" /></a>
 <a href="https://instagram.com/mehmet.sonmezzx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehmet.sonmezzx" height="30" width="40" /></a>
@@ -58,10 +58,10 @@
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
     </a> 
     
-      <h6 align="left">Mobile</h6>
-   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-      <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-   </a>
+   <h6 align="left">Mobile</h6>
+     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+     </a>
       
    <h6 align="left">Database</h6>
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
