@@ -18,9 +18,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
-  
   <h6 align="left">Programming Languages</h6>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
@@ -61,8 +59,9 @@
     </a> 
     
     <h6 align="left">Mobile</h6>
- <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
- </a>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+      <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+    </a>
       
    <h6 align="left">Database</h6>
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
