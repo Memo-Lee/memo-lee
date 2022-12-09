@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mehmet Sönmez</h1> 
 <h3 align="center">Web & Mobile Developer from Turkey</h3> <hr>
-<img align="right" alt="Coding" width="400" src="https://img1.ak.crunchyroll.com/i/spire4/437f0e4284a72b28c278bf091f8b582e1532412428_full.png">
-
-<h3 align="right">Connect with me:</h3>
 <p align="right">
+<img align="right" alt="Coding" width="400" src="https://img1.ak.crunchyroll.com/i/spire4/437f0e4284a72b28c278bf091f8b582e1532412428_full.png">
+<h3 align="right">Connect with me:</h3>  
 <a href="https://codepen.io/memo-lee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="memo-lee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mehmetsonmez10x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetsonmez10x" height="30" width="40" /></a>
 <a href="https://instagram.com/mehmet.sonmezzx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehmet.sonmezzx" height="30" width="40" /></a>
