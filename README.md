@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Sönmez</h1> 
-<h3 align="center">Web & Mobile Developer from Turkey</h3> <hr>
+<h3 align="center">Software Developer from Turkey</h3> <hr>
 <img align="right" alt="Coding" width="400" src="https://img1.ak.crunchyroll.com/i/spire4/437f0e4284a72b28c278bf091f8b582e1532412428_full.png">
 
 <span align="left">
